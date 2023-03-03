@@ -1,8 +1,8 @@
 # Mortality-risk-prediction-for-COVID-19-patients
 ### Supervised Learning - Classification
 
-## Project Objective: 
-To develop a predictive model that can aid healthcare professionals in identifying COVID-19 patients with pre-existing medical conditions who are at a higher risk of mortality. The model will use decision tree and random forest algorithms with hyperparameter tuning, feature selection using chi2 and mutual information methods, and data balancing with SMOTE technique.
+## Project Statement: 
+The COVID-19 pandemic has caused significant health concerns globally, with high mortality rates in patients with pre-existing medical conditions. Predicting the mortality risk for COVID-19 patients with pre-existing medical conditions is crucial for prioritizing appropriate medical intervention and allocating resources effectively. Therefore, developing a model that can accurately predict the mortality risk for COVID-19 patients with pre-existing medical conditions is critical in improving the outcome of these patients and optimizing healthcare resource utilization.
 
 ## Data: 
 The data used in this project is a dataset containing features related to COVID-19 patients with pre-existing medical conditions. The dataset is unbalanced, meaning that there are more instances of one class (survivors) than the other (deceased). The data is preprocessed to handle missing values and categorical features.
